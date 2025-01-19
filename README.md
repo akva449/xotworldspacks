@@ -4,7 +4,7 @@
 
 Скачать модпак 1.16.5 [Версия 2.0] (20.01.2024):
 
-[https://github.com/akva5/purrworldpacks/releases/download/purrworld/PurrWorldPack.2.0.Fabric-1.16.5.zip](https://github.com/akva5/purrworldpacks/releases/download/purrworld/PurrWorldPack.2.0.Fabric-1.16.5.zip)
+[https://github.com/akva5/purrworldpacks/releases/download/2.0/PurrWorldPack.2.0.Fabric-1.16.5.zip](https://github.com/akva5/purrworldpacks/releases/download/2.0/PurrWorldPack.2.0.Fabric-1.16.5.zip)
 
 -----------------------------------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 
 РЕКОМЕНДУЕМ СКАЧАТЬ ПАК ЭМОЦИЙ!
 
-[https://github.com/akva5/purrworldpacks/releases/download/purrworld/emotes.zip](https://github.com/akva5/purrworldpacks/releases/download/purrworld/emotes.zip)
+[https://github.com/akva5/purrworldpacks/releases/download/2.0/emotes.zip](https://github.com/akva5/purrworldpacks/releases/download/2.0/emotes.zip)
 
 -----------------------------------------------------------------------------------------------------
 
