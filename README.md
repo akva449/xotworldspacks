@@ -6,6 +6,8 @@
 
 [https://github.com/akva5/purrworldpacks/releases/download/2.0/PurrWorldPack.2.0.Fabric-1.16.5.zip](https://github.com/akva5/purrworldpacks/releases/download/2.0/PurrWorldPack.2.0.Fabric-1.16.5.zip)
 
+**Все сборки**: [https://github.com/akva5/purrworldpacks/releases](https://github.com/akva5/purrworldpacks/releases)
+
 -----------------------------------------------------------------------------------------------------
 
 ![Emote](https://github.com/akva5/purrworldpacks/blob/main/PW-Emote.png) 
